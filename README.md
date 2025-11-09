@@ -1,0 +1,2 @@
+# Edge-Deployed-Intelligent-Driver-Safety-System-using-SLM-Agent
+Edge-deployed driver safety system designed to detect fatigue, stress, and unconsciousness in real-time and take appropriate safety actions. It is unique because we are building a onboard Small Language Model (SLM) agent running directly on vehicle's CPU+GPU allowing the system not just to alert the driver, but to interact based on driver's state.
